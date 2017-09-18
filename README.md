@@ -8,6 +8,7 @@ A small tool to quickly ssh into an ansible host group
 * Python 3
 * pyyaml
 * jinja2
+* configparser
 
 ## INI file
 
